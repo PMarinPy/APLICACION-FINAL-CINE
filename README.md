@@ -1,5 +1,16 @@
 # React + Vite
 
+This is a proyect of moviesm that you can see. 
+
+This is make for students of Bootcamp 
+
+Tha page is this:
+
+https://cheery-halva-9659d6.netlify.app/person/1988219
+
+If you want to work in our proyect, you must to install some libraris and dependeces how axios and vite.
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
