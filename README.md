@@ -6,7 +6,7 @@ This is make for students of Bootcamp
 
 Tha page is this:
 
-https://cheery-halva-9659d6.netlify.app/person/1988219
+https://cheery-halva-9659d6.netlify.app
 
 If you want to work in our proyect, you must to install some libraris and dependeces how axios and vite.
 
